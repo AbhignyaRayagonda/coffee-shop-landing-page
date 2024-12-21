@@ -466,7 +466,7 @@ hr {
     height: 100vh;
     padding: 10px;
     text-align: center;
-    background-image: url(./Images/hero2responsive.jpeg);
+    background-image: url(hero2responsive.jpeg);
   }
 
   .hero .hero-content .hero-title {
