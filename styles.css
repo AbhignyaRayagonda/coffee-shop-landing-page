@@ -61,7 +61,7 @@ body {
 }
 
 .hero {
-  background-image: url(./images/hero.jpeg);
+  background-image: url(hero.jpeg);
   background-repeat: no-repeat;
   background-size: cover;
   background-position: center;
